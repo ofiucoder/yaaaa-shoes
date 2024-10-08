@@ -2,6 +2,10 @@ Como se os ha mostrado como montar una agencia inmobiliaria con Bootstrap y JSON
 
 Requisitos:
 
+* Tener instalado node js
+* Instalar node nvm
+* Instalar node package json
+
 - Deberás crear una pagina en HTML y CSS con Javascript.
 - Deberás realizar los commits pertinentes y pushearlos al repositorio
 - Por supuesto puedes darle estilos con CSS (puedes usar Bootstrap o/y Tailwind)
