@@ -6,6 +6,8 @@ Requisitos:
 2. Crear archivo package.json
 3. Instalar node npm (npm install) jason-server
 
+los tres puntos anteriores se declaran desiertos porque se le ataco de manera local al API
+
 - Deberás crear una pagina en HTML y CSS con Javascript.
 - Deberás realizar los commits pertinentes y pushearlos al repositorio
 - Por supuesto puedes darle estilos con CSS (puedes usar Bootstrap o/y Tailwind)
