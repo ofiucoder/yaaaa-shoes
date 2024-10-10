@@ -1,0 +1,24 @@
+header{
+    background-color: #27b5b9;
+    color: white;
+}
+
+ul {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+  }
+
+  li {
+    float: left;
+  }
+  
+  a {
+    display: inline;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+
+  
