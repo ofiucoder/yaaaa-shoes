@@ -12,10 +12,10 @@ fetchApiJson().then(shoe =>{
         let image = shoe.shoes[index]["image"];
         let price = shoe.shoes[index]["price"];
         let model = shoe.shoes[index]["model"];
+        let material = shoe.shoes[index]["material"];
         let description = shoe.shoes[index]["description"];
         let category = shoe.shoes[index]["category"];
         console.log(id,image,price,model,description,category);
-
    
 
         shoesSection.innerHTML += `
@@ -24,6 +24,7 @@ fetchApiJson().then(shoe =>{
                 <div class="card-body">
                     <h5 class="card-title">Precio: ${price}€</h5>
                     <p class="card-text">Modelo: ${model}</p>
+                    <p class="card-text">Modelo: ${material}</p>
                     <p class="card-text">${description}</p>
                     <p class="card-text">Categoría: ${category}</p>
                 </div>                
