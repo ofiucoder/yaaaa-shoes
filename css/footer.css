@@ -1,3 +1,52 @@
+/* header and footer colors #1f618d */
 footer{
-    background-color: #1a5276;
+    background-color: #211d1d;
+    color: white;
+}
+.f-rows{
+    padding: 2rem 1rem;
+}
+.footerContainer{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 86.25rem;
+}
+.f-email-section{
+    text-align: center;
+    border: 1px solid black;
+}
+.f-email{
+    display: flex;
+    justify-content: center;
+}
+.f-form{
+  border: none;
+  width: 40vw;
+  max-width: 400px;
+  outline: none;
+  padding-left: 1rem;
+  margin: 0;
+  border-radius: 5px 0 0 5px;
+  height: unset;
+}
+
+.f-email input{
+    font-size: 19px;
+  font-family: Helvetica, Arial, sans-serif;
+  background: #fff;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #64686b;
+}
+
+a#newsletterSubmitCTA {
+    padding: 1rem 1.25rem;
+    background: #C9192E;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+    -webkit-transition: background 0.3s ease-in-out;
+    -moz-transition: background 0.3s ease-in-out;
+    -o-transition: background 0.3s ease-in-out;
+    border-radius: 0 5px 5px 0;
 }
