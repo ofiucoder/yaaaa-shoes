@@ -1,26 +1,32 @@
-footer{
-    background-color: #211d1d;
-    color: white;
+footer {
+  background-color: #211d1d;
+  color: white;
 }
-.f-rows{
-    padding: 2rem 1rem;
+
+.f-rows {
+  padding: 2rem 1rem;
 }
-.line-rows{
-    border-bottom: 1px solid #777777;
+
+.line-rows {
+  border-bottom: 1px solid #777777;
 }
-.footerContainer{
-    margin-right: auto;
-    margin-left: auto;
-    max-width: 86.25rem;
+
+.footer-container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 86.25rem;
 }
-.f-email-section{
-    text-align: center;
+
+.f-title-align {
+  text-align: center;
 }
-.f-email{
-    display: flex;
-    justify-content: center;
+
+.f-email {
+  display: flex;
+  justify-content: center;
 }
-.f-form{
+
+.f-form {
   border: none;
   width: 40vw;
   max-width: 400px;
@@ -31,7 +37,7 @@ footer{
   height: unset;
 }
 
-.f-email input{
+.f-email input {
   font-size: 19px;
   font-family: Helvetica, Arial, sans-serif;
   background: #fff;
@@ -41,19 +47,43 @@ footer{
 }
 
 a#button {
-    padding: 1rem 1.25rem;
-    background: #C9192E;
-    color: white;
-    cursor: pointer;
-    transition: background 0.3s ease-in-out;
-    border-radius: 0 5px 5px 0;
+  padding: 1rem 1.25rem;
+  background: #c9192e;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+  border-radius: 0 5px 5px 0;
 }
 
-.f-social-section{
-    display: flex;
-    justify-content: space-around;
-    font-size: 40px;
+.f-social-container {
+  display: flex;
+  justify-content: space-around;
+  font-size: 40px;
 }
-.f-social-section a{
-    color: white;
+
+.f-social-container a {
+  color: white;
+}
+
+.f-policy-color {
+  background-color: black;
+}
+
+.f-policy-container {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+.bottom-links {
+  align-items: center;
+  text-decoration: none;
+  font-size: 0.8rem;
+  margin-right: 1rem;
+  color: white;
+}
+
+.bottom-links:hover {
+  border-bottom: 0.03rem solid rgba(255, 255, 255, 0.7);
+  cursor: pointer;
 }
