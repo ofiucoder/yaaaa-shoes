@@ -1,51 +1,54 @@
-  :root {
-    --nav-color: #675d50;
-    --nav-text: #fff;
-    --primary-color: #f3deba;
-    --secondary-color: #abc4aa;
-    --hover-color: #a9907e;
+/*Eliminamos los margenes y paddings que agrega el navegador por defecto*/
+* {
+    padding: 0;
+    margin: 0;
   }
   
-  .header-container {
-    background-color: var(--nav-color);
-    font-size: 1.2rem;
-    font-family: "Merriweather Sans", sans-serif;
-    height: 70px;
+  /*Agregamos margenes inferiores a los parrafos*/
+  p {
+    margin-bottom: 20px;
   }
 
-  .navbar {
-    display: flex;
-    align-items: center ;
-    justify-content: center;
-    height: 100%;
+  header {
+    background: #a9cce3;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+  }
+
+  nav {
+    float: left; /* Desplazamos el nav hacia la izquierda */
+  }
+  
+  nav ul {
+    list-style: none;
+    overflow: hidden; /* Limpiamos errores de float */
+  }
+  
+  nav ul li {
+    float: left;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  nav ul li a {
+    display: block; /* Convertimos los elementos a en elementos bloque para manipular el padding */
+    padding: 20px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav ul li:hover {
+    background: #3ead47;
+  }
+
+  .contenido {
+    padding-top: 80px;
+  }
+  
+  
+  .wrapper {
     width: 80%;
     margin: auto;
-  }
-
-  .navbar ul {
-    display: flex;
-  }
-
-  .container .navbar {
-    justify-content: space-around;
-  }
-
-  .navbar ul li {
-    list-style-type: none;
-    justify-items: stretch;
-    text-justify: auto;
-  }
-  
-  .container .navbar ul li {
-    padding: 20px;
-    margin: 0 20px;
-  }
-
-  .navbar a {
-    color: var(--nav-text);
-    font-weight: bold;
-  }
-  
-  .navbar a:hover {
-    color: var(--secondary-color);
+    overflow:hidden;
   }
