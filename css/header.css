@@ -10,7 +10,7 @@
   }
 
   header {
-    background: #a9cce3;
+    background: #211d1d;
     width: 100%;
     position: fixed;
     z-index: 100;
@@ -39,10 +39,10 @@
   }
   
   nav ul li:hover {
-    background: #3ead47;
+    background: #413a3a;
   }
 
-  .contenido {
+  .header-container {
     padding-top: 80px;
   }
   
