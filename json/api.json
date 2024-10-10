@@ -1,66 +1,173 @@
 {"shoes": [
     {
       "id": 1,
-      "image": "https://calzadospitillos.com/cdn/shop/files/T43-30002-PIEDRA-1_e83af5b0-f161-4b27-aec7-a1ffb910547b_460x.jpg?v=1726948075",
+      "image": "https://www.lunacalzados.es/43099-large_default/luna-trend-m3720-beige-botin-tacon-medio.jpg",
       "price": "50",
+      "color": "Beige",
       "model": "yaaashoes-Inv01",
-      "description": "Nueva colección de Calzados, Otoño-Invierno 2024. Zapatos de mujer: Zapatos con Tacón - TACON SILVIA. ¡LOS MEJORES ZAPATOS PARA LA MUJER!.",
+      "material":"Sintético",
+      "description": "Versátil y elegante se adapta a diferentes estilos y ocasiones. Diseño ergonómico para favorecer el comfort.!.",
       "category":"Mujer"
       
     },
     {
       "id": 2,
-      "image": "",
-      "price": "35",
-      "model": "yaaashoes-Inv01",
-      "description": ".",
+      "image": "https://www.lunacalzados.es/41020-large_default/etika-11007-negro-bota-elastica-tacon-medio.jpg",
+      "price": "40",
+      "color": "Negro",
+      "model": "yaaashoes-Inv02",
+      "material":"Sintético",
+      "description": "Fabricados con materiales de alta calidad, diseño innovador en sintonía con las tendencias más recientes de la moda.!.",
       "category":"Mujer"
       
     },
     {
       "id": 3,
-      "image": "",
-      "price": "35",
-      "model": "yaaashoes-Inv01",
-      "description": ".",
+      "image": "https://www.lunacalzados.es/41071-large_default/etika-11006-camel-bota-alta-hebilla-tacon-medio.jpg",
+      "price": "80",
+      "color": "Camel",
+      "model": "yaaashoes-Inv03",
+      "material":"Antelina",
+      "description": "Botas para uso diario, diseño cómodo y elegante.!.",
       "category":"Mujer"
       
     },
     {
       "id": 4,
-      "image": "",
+      "image": "https://www.lunacalzados.es/38454-large_default/amarpies-ajh27167-taupe-bota-suela-plana.jpg",
       "price": "35",
-      "model": "yaaashoes-Inv01",
-      "description": ".",
+      "color": "Taupe",
+      "model": "yaaashoes-Inv04",
+      "material":"Forro y planta sintética",
+      "description": "Brilla con un toque casual gracias a estas botas!.",
       "category":"Mujer"
       
     },
     {
       "id": 5,
-      "image": "",
+      "image": "https://www.lunacalzados.es/38718-large_default/luna-b-c794-beige-bota-acolchada-suela-plana.jpg",
       "price": "35",
-      "model": "yaaashoes-Inv01",
-      "description": ".",
-      "category":"Mujer"
+      "color": "Beige",
+      "model": "yaaashoes-Inv05",
+      "material":"Sintético",
+      "description": "Forro y planta sintéticaDiseño ergonómico para favorecer el comfort de las pequeñas de la casa.!.",
+      "category":"Niña"
       
     },
     {
       "id": 6,
-      "image": "",
-      "price": "35",
-      "model": "yaaashoes-Inv01",
-      "description": ".",
-      "category":"Mujer"
+      "image": "https://www.lunacalzados.es/8447-large_default/conguitos-542-56-beige-bota-pelo-suela-plana.jpg",
+      "price": "20",
+      "color": "beige",
+      "model": "yaaashoes-Inv06",
+      "material":"Sintético",
+      "description": "Para Niña con Suela plana y diseño exterior en Sintetico con interior Forro y planta textil, Abierto . Actual y moderno.",
+      "category":"Niña"
       
     },
     {
       "id": 7,
-      "image": "",
-      "price": "35",
-      "model": "yaaashoes-Inv01",
-      "description": ".",
-      "category":"Mujer"
+      "image": "https://www.lunacalzados.es/38712-large_default/luna-b-c794-negro-bota-acolchada-suela-plana.jpg",
+      "price": "38",
+      "color": "Negro",
+      "model": "yaaashoes-Inv07",
+      "material":"Sintético",
+      "description": "Eleva tu estilo con esta BOTA ACOLCHADA con Suela plana de la firma YaaaaShoes!.",
+      "category":"Niña"
       
+    },
+    {
+      "id": 8,
+      "image": "https://www.lunacalzados.es/39772-large_default/xti-kids-151092-beige-botin-militar-suela-plana.jpg",
+      "price": "45",
+      "color": "Beige",
+      "model": "yaaashoes-Inv08",
+      "material":"Sintético",
+      "description": "Gracias a su color Beige combinarán a la perfección con tu look de cualquier manera.",
+      "category":"Niña"    
+
+    },
+    {
+      "id":9,
+      "image": "https://www.lunacalzados.es/42314-large_default/calvin-klein-ym0ym00681-blanco-deportivo-casco-suela-plana.jpg",
+      "price": "129,39",
+      "Color": "Blanco y Negro",
+      "model": "yaaashoes-Inv09",
+      "material": "piel",
+      "description": "Zapato para uso depotivo con diseño casual",
+      "category": "Caballero"
+
+    },
+    {
+      "id":10,
+      "image": "https://www.lunacalzados.es/42482-large_default/nike-fd2722-azul-deportivo-running-suela-plana.jpg",
+      "price": "100",
+      "Color": "Blanco clorido",
+      "model": "yaaashoes-Inv10",
+      "material": "Poliester",
+      "description": "Zapato deportivo para uso diario",
+      "category": "Caballero"
+
+    },
+    {
+      "id":11,
+      "image":"https://www.lunacalzados.es/39312-large_default/nike-bq6806-blanco-deportivo-abotinado-suela-plana.jpg",
+      "price":"105",
+      "Color":"Blanco matisado",
+      "model":"yaaashoes-Inv11",
+      "material":"Piel",
+      "description":"Zapatos modelos nike para salir",
+      "category":"Caballero"
+    },
+    {
+      "id":12,
+      "image":"https://www.lunacalzados.es/42044-large_default/lacoste-48sma0048-blanco-deportivo-casual-suela-plana.jpg",
+      "price":"80",
+      "Color":"Blanco",
+      "model":"yaaashoes-Inv12",
+      "material":"Piel",
+      "description":"Calzado para hombre deportivo marca Lacoste",
+      "category":"Caballero"
+    },
+    {
+      "id":13,
+      "image":"https://www.lunacalzados.es/39562-large_default/luna-collection-c1136-marino-deportivo-luces-suela-plana.jpg",
+      "price":"33",
+      "Color":"Azul",
+      "model":"yaaashoes-Inv13",
+      "material":"Poliester",
+      "description":"Calsado para niño",
+      "category":"Niño"
+    },
+    {
+      "id":14,
+      "image":"https://www.lunacalzados.es/37465-large_default/nike-dx7615-azul-deportivo-running-suela-plana.jpg",
+      "price":"29",
+      "Color":"Azul y negro",
+      "model":"yaaashoes-Inv14",
+      "material":"Poliester",
+      "description":"Calzado para niño deportivo",
+      "category":"Niño"
+    },
+    {
+      "id":15,
+      "image":"https://www.lunacalzados.es/40260-large_default/puma-393839-azul-deportivo-casco-suela-plana.jpg",
+      "price":"39",
+      "Color":"blanco con negro",
+      "model":"yaaashoes-Inv15",
+      "material":"Piel",
+      "description":"Calzado para niño deportivo marca puma",
+      "category":"Niño"
+    },
+    {
+      "id":16,
+      "image":"https://www.lunacalzados.es/30551-large_default/nike-dz7578-azul-deportivo-running-suela-plana.jpg",
+      "price":"40",
+      "Color":"Blanco",
+      "model":"yaaashoes-Inv16",
+      "material":"Poliester",
+      "description":"Calzado para niño deportido",
+      "category":"niño"
     }
     
   ]
