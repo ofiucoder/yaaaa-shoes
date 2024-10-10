@@ -6,6 +6,61 @@
       "model": "yaaashoes-Inv01",
       "description": "Nueva colección de Calzados, Otoño-Invierno 2024. Zapatos de mujer: Zapatos con Tacón - TACON SILVIA. ¡LOS MEJORES ZAPATOS PARA LA MUJER!.",
       "category":"Mujer"
+      
+    },
+    {
+      "id": 2,
+      "image": "",
+      "price": "35",
+      "model": "yaaashoes-Inv01",
+      "description": ".",
+      "category":"Mujer"
+      
+    },
+    {
+      "id": 3,
+      "image": "",
+      "price": "35",
+      "model": "yaaashoes-Inv01",
+      "description": ".",
+      "category":"Mujer"
+      
+    },
+    {
+      "id": 4,
+      "image": "",
+      "price": "35",
+      "model": "yaaashoes-Inv01",
+      "description": ".",
+      "category":"Mujer"
+      
+    },
+    {
+      "id": 5,
+      "image": "",
+      "price": "35",
+      "model": "yaaashoes-Inv01",
+      "description": ".",
+      "category":"Mujer"
+      
+    },
+    {
+      "id": 6,
+      "image": "",
+      "price": "35",
+      "model": "yaaashoes-Inv01",
+      "description": ".",
+      "category":"Mujer"
+      
+    },
+    {
+      "id": 7,
+      "image": "",
+      "price": "35",
+      "model": "yaaashoes-Inv01",
+      "description": ".",
+      "category":"Mujer"
+      
     }
     
   ]
