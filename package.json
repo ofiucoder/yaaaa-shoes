@@ -1,12 +1,17 @@
 {
-  "name": "yaaaa-shoes",
+  "name": "yaaashoes",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "yaaas-shoes",
+  "main": "index.html",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
   },
-  "keywords": [],
-  "author": "",
+  "devDependencies": {
+    "jest": "*"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Yuliana Alcalá",
   "license": "ISC"
 }
