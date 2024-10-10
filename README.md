@@ -1,30 +1,18 @@
-Como se os ha mostrado como montar una agencia inmobiliaria con Bootstrap y JSON Server, Crea una nueva compañía que no sea una agencia inmobiliaria para repetir este código.
 
-Requisitos:
+Se trata de un proyecto de trabajo durante el estudio en el bootcamp de Factoriaf5 en el que se han tenido que poner en práctica los conocimientos de CSS,HTML,Javascrip y librerias como boostramp en clase así como los de Git. El proyecto consiste en crear una pagina web desde cero y usamos como tema venta de zapatos...
 
-1. Tener instalado node js
-2. Crear archivo package.json
-3. Instalar node npm (npm install) jason-server
-
-los tres puntos anteriores se declaran desiertos porque se le ataco de manera local al API
-
-- Deberás crear una pagina en HTML y CSS con Javascript.
-- Deberás realizar los commits pertinentes y pushearlos al repositorio
-- Por supuesto puedes darle estilos con CSS (puedes usar Bootstrap o/y Tailwind)
-- La pagina deberá contar con un HEADER, una MAIN y un FOOTER
-- Empecemos a organizar las carpetas en nuestro código, al igual que usemos el CLEAN CODE.
-- Buena escritura del JSON
-- Hacer un buen README que explique el proyecto y explique como instalarlo (lo probaremos)
+# Herramientas y tecnologías utilizadas:
+- CSS 
+- HTML
+- GIT
+- VSCODE
+- JavaScript
+- Boostramp
 
 
-Entregables:
 
-- Enlace al repositorio de Github
-- Una captura de pantalla del resultado
-
-Valoración:
-
-- Se valorara la calidad del código Javascript
-- Se valorara el Json
-- El buen funcionamiento de la aplicación
-- El Readme
+# Contribuidores
+- [Angelo Colmenares](https://github.com/Anngelooo)
+- [Abdías Labrador](https://github.com/abdiaslabrador)
+- [Yuliana Alcala] (https://github.com/Yuliana-Alcala)
+- [Alberto Casas] (https://github.com/ofiucoder)
