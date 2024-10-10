@@ -1,10 +1,12 @@
-/* header and footer colors #1f618d */
 footer{
     background-color: #211d1d;
     color: white;
 }
 .f-rows{
     padding: 2rem 1rem;
+}
+.line-rows{
+    border-bottom: 1px solid #777777;
 }
 .footerContainer{
     margin-right: auto;
@@ -13,7 +15,6 @@ footer{
 }
 .f-email-section{
     text-align: center;
-    border: 1px solid black;
 }
 .f-email{
     display: flex;
@@ -31,7 +32,7 @@ footer{
 }
 
 .f-email input{
-    font-size: 19px;
+  font-size: 19px;
   font-family: Helvetica, Arial, sans-serif;
   background: #fff;
   -webkit-box-shadow: none;
@@ -39,14 +40,20 @@ footer{
   color: #64686b;
 }
 
-a#newsletterSubmitCTA {
+a#button {
     padding: 1rem 1.25rem;
     background: #C9192E;
     color: white;
     cursor: pointer;
     transition: background 0.3s ease-in-out;
-    -webkit-transition: background 0.3s ease-in-out;
-    -moz-transition: background 0.3s ease-in-out;
-    -o-transition: background 0.3s ease-in-out;
     border-radius: 0 5px 5px 0;
+}
+
+.f-social-section{
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+}
+.f-social-section a{
+    color: white;
 }
