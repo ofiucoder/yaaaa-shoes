@@ -63,6 +63,7 @@ a#button {
 
 .f-social-container a {
   color: white;
+  cursor: pointer;
 }
 
 .f-policy-color {
