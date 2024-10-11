@@ -72,6 +72,7 @@ a#button {
 .f-policy-container {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   color: white;
 }
 

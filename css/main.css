@@ -1,11 +1,23 @@
-.card-body{
-    background-color: #a9cce3  ;
-    
+.card-body {
+  background-color: #a9cce3;
 }
-.cardsShoes{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: space-around;
-    margin-top: 10px;
+.cards-shoes {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px 30px;
+}
+
+.card-width {
+  width: 18rem;
+}
+
+.main-container {
+  margin: 77px 25px 25px 25px;
+}
+
+@media (max-width: 650px) {
+  .main-container {
+    margin-top: 230px;
+  }
 }
