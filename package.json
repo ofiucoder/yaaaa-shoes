@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "yaaas-shoes",
   "main": "index.html",
-  "dependencies": {
-    "json-server": "^1.0.0-beta.3"
-  },
   "devDependencies": {
     "jest": "*"
   },
