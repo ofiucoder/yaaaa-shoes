@@ -1,5 +1,6 @@
 
-Se trata de un proyecto de trabajo durante el estudio en el bootcamp de Factoriaf5 en el que se han tenido que poner en práctica los conocimientos de CSS,HTML,Javascrip y librerias como boostramp en clase así como los de Git. El proyecto consiste en crear una pagina web desde cero y usamos como tema venta de zapatos...
+Se trata de un proyecto realizado durante el estudio en el bootcamp Backend + AWS impartido por Factoria F5, en el que se han puesto en práctica los conocimientos de CSS,HTML,Javascrip, Git, GitHub y librerías como Bootstrap.
+El proyecto consiste en crear una página web desde cero para la que usamos como tema una tienda online de venta de zapatos de mujeres, hombres, niños y niñas.
 
 # Herramientas y tecnologías utilizadas:
 - CSS 
