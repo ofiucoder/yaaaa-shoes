@@ -19,4 +19,4 @@ Para descargarte el proyecto solo tienes que hacer git clone https://github.com/
 - [Abdías Labrador](https://github.com/abdiaslabrador)
 - [Yuliana Alcalá](https://github.com/Yuliana-Alcala)
 - [Alberto Casas](https://github.com/ofiucoder)
-- Antonio Cruz
+- Antonio Cruz# yaaaa-shoes
